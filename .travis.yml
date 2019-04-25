@@ -1,4 +1,4 @@
 
 dist: xenial
-language: lua
+language: ruby
 script: ping -c 4 google.com
