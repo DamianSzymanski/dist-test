@@ -1,4 +1,7 @@
-
 dist: bionic
-language: ruby
-script: ping -c 5 google.com
+group: dev
+language: __peridot__
+install: true
+script: true
+notifications:
+  email: never
