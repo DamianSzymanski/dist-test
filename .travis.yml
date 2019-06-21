@@ -1,6 +1,5 @@
 dist: bionic
-group: dev
-language: __peridot__
+language: ruby
 install: true
 script: true
 notifications:
