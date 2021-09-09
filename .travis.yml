@@ -1,6 +1,2 @@
 dist: bionic
-language: ruby
-install: true
-script: true
-notifications:
-  email: never
+script: echo manaman
