@@ -1,3 +1,4 @@
 dist: bionic
+arch: ppc64le
 script:
 - cat /etc/docker/*
